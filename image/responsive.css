@@ -1,0 +1,6 @@
+@media(min-width:388px)and (max-width:580px){
+    .parent {
+        margin: auto;
+        max-width: 80vw;
+    }
+}
